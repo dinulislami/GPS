@@ -10,7 +10,7 @@ import android.view.View
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import kotlinx.android.synthetic.main.activity_main.*
-
+import com.google.android.gms.location.*
 
 
 
